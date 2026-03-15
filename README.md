@@ -20,7 +20,7 @@ The device runs a **24/7 continuous scan loop**: when a student places their fin
 
 ### Wiring
 
-![component_wiring](/esp/components_wiring.jpeg)
+![component_wiring](/components_wiring.jpeg)
 
 ```
 AS608 Fingerprint Sensor
