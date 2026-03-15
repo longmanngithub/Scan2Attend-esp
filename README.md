@@ -20,6 +20,8 @@ The device runs a **24/7 continuous scan loop**: when a student places their fin
 
 ### Wiring
 
+![component_wiring](/esp/components_wiring.jpeg)
+
 ```
 AS608 Fingerprint Sensor
   TX  → GPIO 16 (UART2 RX)
